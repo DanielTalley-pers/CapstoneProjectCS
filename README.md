@@ -7,7 +7,7 @@ The map could be used in two ways.
 1. To see where churches need to be planted based upon the total number of adherents already there compared to the total population.
 2. To see where churches need to be planted based upon the lack of adherents in an area vs the total population.
 
-Much more data could be used to determine a more accurate result, however this project is the initial prototype of my thesis.
+Much more data could be used to determine a more accurate result, however this project is the initial prototype of my idea.
 
 Included is my main thesis and Capstone Paper.
 
