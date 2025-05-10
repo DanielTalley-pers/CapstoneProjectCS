@@ -9,7 +9,7 @@ The map could be used in two ways.
 
 Much more data could be used to determine a more accurate result, however this project is the initial prototype of my idea.
 
-Included is my Capstone Paper, which explains in more detail the project.
+Included is my Capstone Paper, which will explain the project in more detail.
 
 
 HTML output and Data sheets avaialble upon request as they are two big to store on GitHub.
